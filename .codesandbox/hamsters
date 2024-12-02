@@ -1,0 +1,481 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hamsters</title>
+  <link rel="stylesheet" href="../styles/styles.css" />
+  <link rel="stylesheet" href="../styles/hamsters.css" />
+</head>
+<body>
+  <header id="menu-container" class="titulo">
+    <h1>Qual cuidado devemos ter com os hamsters na hora de:</h1>
+  </header>
+
+  <section class="hamsters">
+    <details>
+      <summary><b>Banhar</b></summary>
+      <h1>Cuidados ao Banhar Hamsters</h1>
+
+      <p>
+        Hamsters são animais de pequeno porte com pelagem delicada, e banhá-los
+        deve ser feito com muito cuidado para evitar estresse ou lesões. Ao
+        contrário de outros animais, os hamsters não precisam de banhos
+        regulares, pois se limpam sozinhos. No entanto, se houver necessidade de
+        banho devido à sujeira extrema ou condições especiais, siga estas
+        orientações:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Frequência dos Banhos</strong>
+          <ul>
+            <li>
+              Hamsters geralmente não necessitam de banhos regulares. A não ser
+              que estejam muito sujos ou tenham algo preso em seu pelo, o ideal
+              é evitar banhos frequentes.
+            </li>
+            <li>
+              Banhos excessivos podem causar ressecamento na pele e remover os
+              óleos naturais do pelo, prejudicando sua saúde.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Tipo de Banho</strong>
+          <ul>
+            <li>
+              Evite molhar o hamster completamente. Em vez disso, use o método
+              de banho seco com pó específico para roedores, que ajuda a limpar
+              sem causar estresse ou molhar o animal.
+            </li>
+            <li>
+              Se for necessário um banho com água, use apenas uma pequena
+              quantidade, e prefira água morna para evitar choques térmicos.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Preparação do Banho</strong>
+          <ul>
+            <li>
+              Prepare um espaço tranquilo e sem distrações para o banho, para
+              que o hamster se sinta seguro.
+            </li>
+            <li>
+              Use uma bacia pequena ou um recipiente adequado para evitar que o
+              hamster se escape.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Produtos Adequados</strong>
+          <ul>
+            <li>
+              Utilize shampoos ou produtos específicos para roedores. Não use
+              produtos destinados a humanos ou animais de outras espécies, pois
+              podem ser prejudiciais.
+            </li>
+            <li>
+              Evite produtos com fragrâncias fortes, pois podem irritar a pele
+              sensível do hamster.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Cuidados Durante o Banho</strong>
+          <ul>
+            <li>
+              Molhe suavemente o pelo do hamster com um pano úmido ou use um
+              jato de água morna, sem deixar que a água entre em seus olhos ou
+              ouvidos.
+            </li>
+            <li>
+              Evite esfregar o hamster com força, pois sua pele é sensível e
+              pode ser facilmente irritada.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Secagem</strong>
+          <ul>
+            <li>
+              Seque o hamster com uma toalha macia, absorvendo o excesso de
+              água.
+            </li>
+            <li>
+              Deixe o hamster em um ambiente aquecido, mas sem correntes de ar,
+              até que esteja completamente seco.
+            </li>
+            <li>
+              Não use secador de cabelo, pois o calor excessivo pode causar
+              estresse e queimaduras.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Recompensa e Paciência</strong>
+          <ul>
+            <li>
+              Após o banho, ofereça um petisco ao hamster e permita que ele se
+              acalme antes de colocá-lo de volta na gaiola.
+            </li>
+            <li>
+              Não force o hamster a entrar na água. Realize o banho de forma
+              calma e tranquila, respeitando os limites do animal.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, você garantirá que o hamster seja limpo de forma
+        segura e confortável, sem comprometer sua saúde ou bem-estar.
+      </p>
+      <p>. Seque-o com uma toalha ou secador no modo frio.</p>
+    </details>
+
+    <br />
+
+    <details>
+      <summary><b>Alimentar</b></summary>
+      <h1>Cuidados ao Alimentar Hamsters</h1>
+
+      <p>
+        Alimentar corretamente o seu hamster é essencial para garantir sua saúde
+        e longevidade. Os hamsters têm um sistema digestivo delicado e precisam
+        de uma alimentação balanceada para se manterem saudáveis. Aqui estão
+        algumas orientações sobre como alimentar seu hamster de maneira
+        adequada:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Tipos de Alimentos</strong>
+          <ul>
+            <li>
+              Os hamsters são animais onívoros e sua alimentação deve incluir
+              uma variedade de alimentos, como sementes, frutas, vegetais
+              frescos e ração específica para hamsters.
+            </li>
+            <li>
+              Evite alimentar seu hamster apenas com sementes ou ração, pois
+              isso pode causar deficiências nutricionais. Adicione vegetais
+              frescos e frutas de maneira moderada à sua dieta.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Evite Alimentos Perigosos</strong>
+          <ul>
+            <li>
+              Não ofereça alimentos ricos em açúcar, sal ou gordura. Alguns
+              alimentos como chocolate, alho, cebola, batatas cruas e alimentos
+              processados são venenosos para os hamsters.
+            </li>
+            <li>
+              Evite oferecer alimentos ricos em amido, como pão, massas ou
+              arroz, que podem causar distúrbios digestivos.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Quantidade de Ração</strong>
+          <ul>
+            <li>
+              A quantidade de ração deve ser controlada para evitar a obesidade.
+              Uma porção diária de ração para hamsters deve ser de
+              aproximadamente 1 a 2 colheres de sopa.
+            </li>
+            <li>
+              Observe o peso do hamster e ajuste a quantidade de alimentos
+              conforme necessário, evitando excessos que possam levar à
+              obesidade.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Frutas e Vegetais Frescos</strong>
+          <ul>
+            <li>
+              Frutas e vegetais frescos devem ser oferecidos em pequenas
+              quantidades, pois possuem alto teor de água e podem causar
+              diarreia se consumidos em excesso.
+            </li>
+            <li>
+              Alguns exemplos de vegetais seguros são cenoura, pepino e
+              espinafre. Frutas como maçã, pera e morango também podem ser
+              oferecidas, mas com moderação.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Água Fresca</strong>
+          <ul>
+            <li>
+              O hamster sempre deve ter acesso a água fresca e limpa. Troque a
+              água diariamente para garantir que ela esteja sempre em boas
+              condições.
+            </li>
+            <li>
+              Use um bebedouro adequado para hamsters, que permita que eles
+              bebam de forma segura e sem a possibilidade de derramamento.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Alimentação Regular</strong>
+          <ul>
+            <li>
+              Alimente seu hamster duas vezes ao dia, de manhã e à noite, para
+              imitar seu ciclo natural de alimentação.
+            </li>
+            <li>
+              Retire os restos de alimentos não consumidos após algumas horas
+              para evitar o acúmulo de sujeira e a deterioração dos alimentos na
+              gaiola.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Atenção às Mudanças no Apetite</strong>
+          <ul>
+            <li>
+              Se o seu hamster mostrar uma diminuição no apetite, isso pode ser
+              um sinal de doença. Fique atento e, se necessário, consulte um
+              veterinário.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, seu hamster terá uma alimentação balanceada,
+        ajudando a manter sua saúde e energia. Além disso, um hamster bem
+        alimentado é um animal mais ativo, feliz e saudável.
+      </p>
+    </details>
+
+    <br />
+
+    <details>
+      <summary><b>Passear</b></summary>
+      <h1>Cuidados ao Passear com Hamsters</h1>
+
+      <p>
+        Embora os hamsters sejam animais pequenos e de natureza noturna, muitos
+        tutores gostam de permitir que seus hamsters explorem o ambiente fora de
+        sua gaiola. No entanto, ao passear com seu hamster, é fundamental tomar
+        certos cuidados para garantir a segurança e o bem-estar do animal.
+        Confira as orientações para passeios seguros:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Espaço Seguro</strong>
+          <ul>
+            <li>
+              Antes de tirar seu hamster da gaiola, prepare um ambiente seguro e
+              controlado, sem objetos perigosos ou locais que o hamster possa se
+              esconder.
+            </li>
+            <li>
+              Certifique-se de que o espaço seja livre de animais predadores
+              (como outros pets) que possam colocar o hamster em risco.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Utilização de uma Bolha de Passeio ou Caixa</strong>
+          <ul>
+            <li>
+              Para passeios fora de casa, o uso de uma bolha de passeio (esfera
+              transparente) pode ser uma opção segura. Ela permite que o hamster
+              se movimente livremente, mas sem risco de fuga ou acidentes.
+            </li>
+            <li>
+              Se não usar uma bolha, opte por uma caixa de transporte com
+              ventilação, para garantir que o hamster se sinta seguro e
+              confortável.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Evitar Superfícies Perigosas</strong>
+          <ul>
+            <li>
+              Não permita que o hamster ande em superfícies escorregadias, como
+              pisos de madeira ou azulejos, pois isso pode causar quedas e
+              lesões.
+            </li>
+            <li>
+              Evite locais com muitos objetos pequenos ou fios expostos, pois os
+              hamsters podem mastigar ou engolir objetos perigosos.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Supervisão Constante</strong>
+          <ul>
+            <li>
+              É importante supervisionar seu hamster o tempo todo durante o
+              passeio. Eles podem ser rápidos e, devido ao seu tamanho pequeno,
+              podem se esconder facilmente em locais onde é difícil resgatá-los.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Temperatura Adequada</strong>
+          <ul>
+            <li>
+              Evite passeios em locais quentes ou muito frios. Hamsters são
+              sensíveis a temperaturas extremas e podem sofrer com o calor ou o
+              frio excessivo.
+            </li>
+            <li>
+              Certifique-se de que o ambiente do passeio seja confortável para o
+              hamster, sem risco de superaquecimento ou hipotermia.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Durabilidade e Tempo do Passeio</strong>
+          <ul>
+            <li>
+              Limite o tempo de passeio para evitar que o hamster se sinta
+              cansado ou estressado. Passeios curtos são mais adequados para
+              esses animais, que preferem descansar frequentemente.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Retorno ao Habitat Seguro</strong>
+          <ul>
+            <li>
+              Após o passeio, retorne o hamster para a gaiola imediatamente.
+              Dê-lhe um tempo tranquilo para se recuperar do estresse de sair do
+              ambiente familiar.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, o passeio com o hamster pode ser uma experiência
+        divertida e segura tanto para o animal quanto para o tutor. Lembre-se de
+        que o bem-estar do hamster deve sempre ser a prioridade durante qualquer
+        atividade fora da gaiola.
+      </p>
+    </details>
+    <details>
+      <summary><b>curiosidades e mitos</b></summary>
+      <p>
+        Os hamsters são pequenos roedores fascinantes, populares como animais de
+        estimação em todo o mundo. Apesar de seu tamanho, eles possuem
+        características e comportamentos únicos que surpreendem. Aqui estão
+        algumas curiosidades e os mitos mais comuns sobre esses pequenos
+        companheiros:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Curiosidades sobre Hamsters</strong>
+          <ul>
+            <li>
+              <strong>Bochechas de Armazenamento:</strong> Os hamsters têm
+              bolsas nas bochechas que podem se expandir até três vezes o
+              tamanho da cabeça deles. Essas bolsas servem para armazenar comida
+              que eles levam para seu esconderijo.
+            </li>
+            <li>
+              <strong>Visão Noturna:</strong> Hamsters têm uma visão limitada,
+              mas são adaptados para ambientes com pouca luz. Eles dependem mais
+              do olfato e da audição para explorar o ambiente.
+            </li>
+            <li>
+              <strong>Corredores Incessantes:</strong> Um hamster pode correr
+              até 8 quilômetros em uma roda em uma única noite, mostrando sua
+              energia e necessidade de atividade física.
+            </li>
+            <li>
+              <strong>Vida Solitária:</strong> A maioria dos hamsters prefere
+              viver sozinha, especialmente os da espécie Síria, que podem se
+              tornar agressivos se mantidos juntos na fase adulta.
+            </li>
+            <li>
+              <strong>Órgãos Sensoriais Apurados:</strong> Hamsters têm um
+              excelente olfato e são capazes de reconhecer o cheiro de seus
+              tutores, alimentos e até o ambiente ao redor.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Mitos sobre Hamsters</strong>
+          <ul>
+            <li>
+              <strong>Hamsters Não Precisam de Atenção:</strong> Apesar de serem
+              independentes, os hamsters precisam de interação regular para se
+              acostumarem com o contato humano e evitar o tédio.
+            </li>
+            <li>
+              <strong>Podem Comer Qualquer Tipo de Semente:</strong> Nem todas
+              as sementes são seguras para hamsters. Algumas, como sementes de
+              maçã, contêm substâncias tóxicas para eles.
+            </li>
+            <li>
+              <strong>Gostam de Água para Banho:</strong> Hamsters não devem ser
+              banhados com água, pois isso pode causar estresse e doenças. Eles
+              se limpam sozinhos e podem usar banhos de areia apropriados.
+            </li>
+            <li>
+              <strong>Todos os Hamsters São Iguais:</strong> Existem várias
+              espécies de hamsters com características distintas. O hamster
+              Sírio, por exemplo, é maior e mais territorial, enquanto os anões
+              russos são menores e mais sociáveis.
+            </li>
+            <li>
+              <strong>São Animais de Vida Longa:</strong> Hamsters têm uma vida
+              relativamente curta, de 2 a 3 anos, dependendo da espécie e dos
+              cuidados recebidos.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Fatos Divertidos sobre Hamsters</strong>
+          <ul>
+            <li>
+              <strong>Exploradores Natos:</strong> Hamsters adoram explorar e
+              podem passar horas mapeando novos ambientes. Eles têm uma memória
+              espacial incrível para lembrar onde esconderam comida.
+            </li>
+            <li>
+              <strong>Capacidade de Escavação:</strong> Na natureza, hamsters
+              escavam túneis complexos com câmaras separadas para dormir, comer
+              e armazenar comida.
+            </li>
+            <li>
+              <strong>Alimentação Variada:</strong> Hamsters têm uma dieta
+              onívora, podendo comer vegetais, frutas, sementes e até pequenas
+              proteínas, como insetos.
+            </li>
+            <li>
+              <strong>Origem do Nome:</strong> A palavra "hamster" vem do alemão
+              "hamstern", que significa "acumular", devido ao hábito de guardar
+              comida nas bochechas.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Hamsters são animais pequenos, mas cheios de personalidade e
+        habilidades. Conhecer mais sobre eles ajuda a desmistificar equívocos e
+        a proporcionar um ambiente adequado para que vivam de forma saudável e
+        feliz.
+      </p>
+    </details>
+  </section>
+
+  <section>
+    <img src="https://media.tenor.com/IfwQV3QYmd8AAAAj/cavy-worry-cute.gif" />
+  </section>
+  <script src="../js/menuLoader.js"></script>
+</body>
