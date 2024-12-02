@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cães</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1>Qual cuidado devemos ter com os cães na hora de:</h1>
+    </header>
+      <section class="botoes">
+      <details>
+        <summary>Banhar</summary>
+        <div class="detalhe">
+          <h2>Cuidados ao Banhar o Cão</h2>
+          <p>Banhar seu cão é uma parte importante dos cuidados com a saúde e higiene do animal. No entanto, é preciso ter atenção a alguns detalhes para garantir o bem-estar do seu pet. Confira abaixo os principais cuidados ao banhar o seu cão:</p>
+          <ol>
+            <li>
+              <strong>Escolha do Shampoo Adequado</strong>
+              <ul>
+                <li>Use apenas shampoos específicos para cães.</li>
+                <li>Produtos para humanos possuem um pH inadequado, que pode causar irritações ou alergias.</li>
+                <li>Consulte o veterinário para recomendações específicas, caso o cão tenha problemas de pele.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Preparação do Ambiente</strong>
+              <ul>
+                <li>Escolha um local seguro e confortável, como um banheiro ou área externa.</li>
+                <li>Use um tapete antiderrapante para evitar escorregões.</li>
+                <li>Tenha à mão todos os itens necessários, como shampoo, toalha e secador.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Temperatura da Água</strong>
+              <ul>
+                <li>Mantenha a água morna (entre 36°C e 38°C).</li>
+                <li>Evite água muito quente ou fria, que pode causar desconforto ou lesões.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Antes do Banho</strong>
+              <ul>
+                <li>Escove o pelo do cão para remover nós e pelos soltos.</li>
+                <li>Isso facilita a aplicação do shampoo e evita embaraços durante o banho.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Molhe o Corpo com Cuidado</strong>
+              <ul>
+                <li>Comece pelas patas e suba gradualmente pelo corpo.</li>
+                <li>Evite molhar o rosto diretamente e proteja os ouvidos com algodão.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Aplicação do Shampoo</strong>
+              <ul>
+                <li>Aplique o shampoo em pequenas quantidades e massageie suavemente.</li>
+                <li>Certifique-se de cobrir todo o corpo, incluindo áreas difíceis como axilas, barriga e cauda.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Enxágue Completo</strong>
+              <ul>
+                <li>Remova todo o shampoo com água abundante para evitar irritações.</li>
+                <li>Repita o processo se necessário, especialmente em cães com pelagem espessa.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Cuidados com o Focinho e Cabeça</strong>
+              <ul>
+                <li>Use um pano úmido para limpar delicadamente olhos, nariz, boca e orelhas externas.</li>
+                <li>Evite o uso direto de shampoo nessas áreas sensíveis.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Secagem</strong>
+              <ul>
+                <li>Envolva o cão em uma toalha grande e absorvente para remover o excesso de água.</li>
+                <li>Se usar secador, opte por uma temperatura baixa e silenciosa para não assustar o cão.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Pós-Banho</strong>
+              <ul>
+                <li>Escove o pelo novamente para alinhar os fios.</li>
+                <li>Recompense o cão com petiscos ou carinho para associar o banho a algo positivo.</li>
+                <li>Limpe os olhos e orelhas com produtos indicados pelo veterinário, se necessário.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Frequência do Banho</strong>
+              <ul>
+                <li>A frequência ideal depende da raça e do tipo de pelo.</li>
+                <li>Consulte o veterinário para ajustar conforme as necessidades do cão.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Cuidados Extras</strong>
+              <ul>
+                <li>Evite banhos em filhotes muito jovens sem orientação veterinária.</li>
+                <li>Use lenços umedecidos para limpeza básica, caso o banho completo não seja possível.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Situações Especiais</strong>
+              <ul>
+                <li>Cães com problemas dermatológicos podem precisar de shampoos terapêuticos.</li>
+                <li>Em dias frios, garanta que o cão esteja completamente seco para evitar resfriados.</li>
+              </ul>
+            </li>
+          </ol>
+          
+        </div>
+      </details>
+
+      <details>
+        <summary>Alimentar</summary>
+        <div class="detalhe">
+          <h2>Cuidados ao Alimentar o Cão</h2>
+          <p>
+            Alimentar seu cão de maneira adequada é fundamental para sua saúde e bem-estar.
+             A escolha da comida certa e os hábitos alimentares influenciam diretamente na qualidade de vida do animal.
+          </p>
+          <ol>
+            <li>
+              <strong>Escolha de Ração de Qualidade</strong>
+              <ul>
+                <li>Opte por rações premium ou super premium, que oferecem nutrientes balanceados.</li>
+                <li>Evite rações de baixa qualidade, que podem causar deficiências nutricionais.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Água Fresca Sempre Disponível</strong>
+              <ul>
+                <li>Garanta que o cachorro tenha acesso constante a água limpa e fresca.</li>
+                <li>Troque a água regularmente, especialmente em dias quentes ou após exercícios.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Alimentação Específica para Cada Fase</strong>
+              <ul>
+                <li><strong>Filhotes:</strong> Precisam de alimentos ricos em proteínas, vitaminas e minerais para apoiar o crescimento.</li>
+                <li><strong>Adultos:</strong> Consuma rações formuladas para manutenção da energia e saúde geral.</li>
+                <li><strong>Idosos:</strong> Necessitam de alimentos com menos calorias e ingredientes que auxiliem articulações e sistema imunológico.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Evite Comida Humana</strong>
+              <ul>
+                <li>Alimentos como chocolate, cebola, alho, uvas, abacate e temperados são tóxicos para cães.</li>
+                <li>Evite oferecer restos de comida, pois podem conter gorduras e temperos prejudiciais.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Quantidade Adequada</strong>
+              <ul>
+                <li>Consulte o veterinário para definir a porção ideal para o porte, peso e atividade do cão.</li>
+                <li>Evite superalimentação para prevenir a obesidade e problemas associados.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Horários Regulares</strong>
+              <ul>
+                <li>Estabeleça horários fixos para criar disciplina e evitar ansiedade alimentar.</li>
+                <li>Divida as refeições diárias em 2 ou 3 porções, dependendo da idade e do porte.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Introdução Gradual de Novos Alimentos</strong>
+              <ul>
+                <li>Ao mudar a ração ou incluir novos itens, faça a transição gradualmente em 7 a 10 dias.</li>
+                <li>Misture a ração antiga com a nova, aumentando a proporção do novo alimento aos poucos.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Controle de Peso e Saúde</strong>
+              <ul>
+                <li>Monitore o peso do cachorro regularmente para prevenir obesidade ou desnutrição.</li>
+                <li>Observe sinais de alergias alimentares, como coceira, vômitos ou diarreia.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Cuidado com Petiscos e Extras</strong>
+              <ul>
+                <li>Ofereça petiscos específicos para cães com moderação (até 10% da dieta diária).</li>
+                <li>Evite o uso excessivo de petiscos para não comprometer a dieta principal.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Consulta ao Veterinário</strong>
+              <ul>
+                <li>Realize check-ups regulares para ajustar a dieta conforme as necessidades do cão.</li>
+                <li>Consulte o veterinário caso o cão apresente problemas alimentares ou de saúde.</li>
+              </ul>
+            </li>
+          </ol>
+          
+        </div>
+      </details>
+
+      <details>
+        <summary>Passear</summary>
+        <div class="detalhe">
+          <h2>Cuidados ao Passear</h2>
+          <p>
+            Passear com seu cão é importante para sua saúde física e mental.
+            Siga algumas dicas para tornar o passeio mais seguro e agradável.
+          </p>
+          <ol>
+            <li>
+              <strong>Use Equipamentos Adequados</strong>
+              <ul>
+                <li>Utilize coleiras e guias apropriadas para o porte e comportamento do cão.</li>
+                <li>Considere coleiras peitorais para cães maiores ou mais fortes para melhor controle.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Escolha do Local</strong>
+              <ul>
+                <li>Prefira locais tranquilos e apropriados, como parques ou áreas específicas para cães.</li>
+                <li>Evite ruas movimentadas ou locais com alto risco de acidentes.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Mantenha o Controle</strong>
+              <ul>
+                <li>Sempre mantenha o cachorro na guia para evitar fugas ou situações perigosas.</li>
+                <li>Fique atento a outros cães ou pessoas que possam causar desconforto ao seu pet.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Cuidados com o Clima</strong>
+              <ul>
+                <li>Evite passeios em horários muito quentes para prevenir queimaduras nas patas e desidratação.</li>
+                <li>Leve água para manter o cão hidratado, especialmente em dias quentes.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Recolha as Fezes</strong>
+              <ul>
+                <li>Leve sacos plásticos para recolher as fezes do cão e mantenha o ambiente limpo.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Observe o Comportamento do Cão</strong>
+              <ul>
+                <li>Preste atenção a sinais de cansaço, desconforto ou estresse.</li>
+                <li>Interrompa o passeio caso perceba algo errado com o animal.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Socialização e Treinamento</strong>
+              <ul>
+                <li>Aproveite os passeios para socializar o cão com outras pessoas e animais de forma segura.</li>
+                <li>Reforce comandos básicos, como “sentar” e “ficar”, para melhorar o comportamento durante as caminhadas.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Identificação do Cão</strong>
+              <ul>
+                <li>Certifique-se de que o cachorro esteja identificado com uma plaquinha ou microchip contendo nome e telefone.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Use Calçados e Produtos Específicos, se Necessário</strong>
+              <ul>
+                <li>Em terrenos ásperos ou muito quentes, considere protetores para as patas.</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Estabeleça Rotinas</strong>
+              <ul>
+                <li>Passear sempre nos mesmos horários ajuda o cão a entender a rotina e ficar menos ansioso.</li>
+              </ul>
+            </li>
+          </ol>
+          
+        </div>
+      </details>
+      <details>
+        <summary>curiosidades e mitos</summary> <details>
+          <p>Os cães são companheiros leais e têm estado ao lado dos humanos há milhares de anos. No entanto, muitas curiosidades e mitos envolvem esses animais incríveis. Aqui estão alguns fatos interessantes e algumas verdades por trás de mitos populares sobre os cães:</p>
+
+          <ol>
+              <li>
+                  <strong>Curiosidades sobre Cães</strong>
+                  <ul>
+                      <li><strong>Sentido do Olfato Apurado:</strong> O olfato dos cães é até 100.000 vezes mais sensível que o dos humanos. Eles conseguem identificar cheiros com uma precisão impressionante e são capazes de rastrear pessoas e objetos apenas pelo odor.</li>
+                      <li><strong>Comunicação com a Cauda:</strong> O movimento da cauda dos cães é uma forma de comunicação. Uma cauda abanando pode significar felicidade, mas também pode indicar nervosismo, dependendo do contexto.</li>
+                      <li><strong>Sonhos Caninos:</strong> Assim como os humanos, os cães sonham! Durante o sono REM, eles podem mexer as patas, latir suavemente ou até se mover, indicando que estão sonhando.</li>
+                      <li><strong>Cães são "Ambidestros":</strong> Alguns estudos mostram que os cães podem ser "destros" ou "canhotos", preferindo usar uma pata específica para tarefas, assim como os humanos com as mãos.</li>
+                      <li><strong>A Raça Mais Velha:</strong> O Basenji, conhecido por não latir, é considerado uma das raças de cães mais antigas do mundo.</li>
+                  </ul>
+              </li>
+              <li>
+                  <strong>Mitos sobre Cães</strong>
+                  <ul>
+                      <li><strong>Cães Veem Apenas em Preto e Branco:</strong> Esse é um mito comum. Embora os cães não enxerguem como os humanos, eles conseguem perceber cores, principalmente tons de azul e amarelo.</li>
+                      <li><strong>Nariz Seco Indica Doença:</strong> Embora um nariz seco possa ser um sinal de febre ou desidratação, muitas vezes é apenas resultado do ambiente ou de atividades recentes, como estar exposto ao sol ou dormindo.</li>
+                      <li><strong>Um Ano de Vida Canina Equivale a Sete Humanos:</strong> Essa fórmula é uma simplificação. A expectativa de vida dos cães varia muito de acordo com a raça, e os primeiros anos de vida deles equivalem a mais "anos humanos" do que os anos seguintes.</li>
+                      <li><strong>Cães Latem Sem Motivo:</strong> Na verdade, os cães sempre têm uma razão para latir, seja para alertar, comunicar algo ou buscar atenção. Latidos excessivos podem indicar estresse ou tédio.</li>
+                      <li><strong>Cães Não Sentem Ciúmes:</strong> Estudos mostram que cães podem sentir ciúmes de outros animais ou pessoas, especialmente se percebem que estão recebendo menos atenção.</li>
+                  </ul>
+              </li>
+              <li>
+                  <strong>Fatos Divertidos sobre os Cães</strong>
+                  <ul>
+                      <li><strong>Latidos Diferentes:</strong> Cada cão tem um "estilo" único de latir, semelhante a uma "impressão digital vocal". Os tutores muitas vezes conseguem identificar seu cão apenas pelo som do latido.</li>
+                      <li><strong>Linguagem Corporal:</strong> A linguagem corporal dos cães é complexa. Um olhar fixo com orelhas levantadas pode indicar atenção, enquanto orelhas abaixadas e rabo entre as pernas indicam medo ou submissão.</li>
+                      <li><strong>Cães como Detectores:</strong> Muitos cães são usados para detectar doenças, como câncer e diabetes, devido à sua habilidade olfativa apurada.</li>
+                      <li><strong>Cães em Filmes:</strong> O pastor alemão Rin Tin Tin foi uma das primeiras estrelas caninas de Hollywood, ajudando a popularizar a presença de cães no cinema.</li>
+                  </ul>
+              </li>
+          </ol>
+      
+          <p>Os cães continuam a surpreender e a encantar os humanos com sua inteligência, lealdade e habilidades especiais. Conhecer mais sobre eles ajuda a desmistificar algumas crenças e a apreciar ainda mais esses incríveis companheiros.</p>
+      
+    </section>
+
+    <section>
+      <img
+        src="https://media.tenor.com/F06bFfXaIl8AAAAi/puglie-pug.gif"
+        alt="Pug Animado"
+      />
+    </section  >
+  </body>
+</html>
