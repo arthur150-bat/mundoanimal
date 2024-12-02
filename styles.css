@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(170, 153, 104);
+  color: rgb(133, 61, 27);
+}
+.gato {
+  color: rgb(133, 61, 27);
+  text-align: center;
+}
+.titulo {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+header {
+  text-align: center;
+  background-color: rgba(255, 123, 0, 0.103);
+}
