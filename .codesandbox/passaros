@@ -1,0 +1,490 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>pássaros</title>
+  <link rel="stylesheet" href="../styles/styles.css" />
+  <link rel="stylesheet" href="../styles/passaros.css" />
+</head>
+<body>
+  <header id="menu-container" class="titulo">
+    <h1>Qual cuidado devemos ter com os passaros na hora de:</h1>
+  </header>
+
+  <section class="passaro">
+    <details>
+      <summary><b>Banhar</b></summary>
+      <p>
+        Banhar o seu pássaro é uma parte importante de seus cuidados de higiene,
+        mas é necessário ter atenção a alguns detalhes para garantir que o banho
+        seja uma experiência agradável e segura. Cada tipo de pássaro tem suas
+        necessidades específicas, e o banho deve ser feito de maneira a
+        preservar a saúde e o bem-estar do animal. Aqui estão algumas
+        orientações para banhar seu pássaro corretamente:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Escolha do Banho</strong>
+          <ul>
+            <li>
+              Alguns pássaros preferem banhos de imersão em pequenas bacias,
+              enquanto outros preferem se molhar com um spray suave. Observe as
+              preferências do seu pássaro e escolha a melhor opção para ele.
+            </li>
+            <li>
+              Evite forçar o pássaro a tomar banho, pois isso pode causar
+              estresse. Respeite o tempo e o ritmo do animal.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Temperatura da Água</strong>
+          <ul>
+            <li>
+              A água deve estar morna, nem quente nem fria, para garantir o
+              conforto do pássaro e evitar choques térmicos.
+            </li>
+            <li>
+              Testar a temperatura com o dorso da mão ou um termômetro de água
+              pode ajudar a garantir que esteja na faixa ideal.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Frequência do Banho</strong>
+          <ul>
+            <li>
+              A frequência do banho depende da espécie e do ambiente. Em geral,
+              pássaros podem tomar banho uma vez por semana, mas algumas
+              espécies, como periquitos, podem gostar de banhos mais frequentes.
+            </li>
+            <li>
+              Evite banhos diários, a menos que seu pássaro tenha um problema
+              específico de pele ou penas que exija mais cuidados.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Uso de Produtos Adequados</strong>
+          <ul>
+            <li>
+              Não use sabonetes ou xampus humanos, pois esses produtos podem ser
+              prejudiciais à pele e penas do pássaro.
+            </li>
+            <li>
+              Se necessário, use produtos específicos para aves, como sprays de
+              limpeza ou shampoos suaves recomendados por veterinários.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Ambiente de Banho</strong>
+          <ul>
+            <li>
+              Escolha um ambiente tranquilo e sem correntes de ar para o banho,
+              para evitar que o pássaro fique resfriado após a água.
+            </li>
+            <li>
+              Se for dar banho em um recipiente, coloque uma toalha ou algo
+              antiderrapante no fundo para que o pássaro não escorregue.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Secagem</strong>
+          <ul>
+            <li>
+              Após o banho, seque suavemente o pássaro com uma toalha macia, se
+              necessário.
+            </li>
+            <li>
+              Deixe o pássaro secar completamente em um ambiente quente e sem
+              correntes de ar.
+            </li>
+            <li>
+              Evite usar secadores de cabelo, pois o barulho pode assustar o
+              pássaro, e o calor excessivo pode prejudicar a saúde dele.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Respeito ao Comportamento do Pássaro</strong>
+          <ul>
+            <li>
+              Observe o comportamento do seu pássaro antes e depois do banho. Se
+              ele parecer estressado, evite dar banho com muita frequência.
+            </li>
+            <li>
+              Algumas aves podem gostar de se molhar naturalmente em ambientes
+              úmidos ou até mesmo com uma leve névoa de água. Respeite as
+              preferências de seu pássaro.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, o banho pode ser uma experiência relaxante e
+        saudável para o seu pássaro, mantendo suas penas e pele bem cuidadas e
+        livres de impurezas.
+      </p>
+    </details>
+
+    <br />
+
+    <details>
+      <summary><b>Alimentar</b></summary>
+      <p>
+        Alimentar adequadamente o seu pássaro é essencial para garantir sua
+        saúde e longevidade. Cada espécie tem necessidades alimentares
+        específicas, e os cuidados na escolha e oferta de alimentos são
+        fundamentais para o bem-estar do animal. Confira os principais cuidados
+        ao alimentar o seu pássaro:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Escolha dos Alimentos</strong>
+          <ul>
+            <li>
+              Ofereça uma dieta balanceada, incluindo sementes, frutas, vegetais
+              e alimentos específicos para aves, que atendam às necessidades
+              nutricionais do pássaro.
+            </li>
+            <li>
+              Evite alimentos processados ou ricos em gordura, como frituras ou
+              doces, que podem causar obesidade e outros problemas de saúde.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Alimentos Tóxicos</strong>
+          <ul>
+            <li>
+              Pesquise sobre os alimentos tóxicos para a espécie de seu pássaro.
+              Alguns alimentos comuns, como abacate, cebola, chocolate e
+              cafeína, são venenosos para as aves.
+            </li>
+            <li>
+              Certifique-se de que os alimentos que você oferece sejam seguros,
+              frescos e apropriados para o tipo de pássaro que você tem.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Frequência das Refeições</strong>
+          <ul>
+            <li>
+              A quantidade e a frequência das refeições variam conforme a
+              espécie e a idade do pássaro. Em geral, pássaros pequenos podem se
+              alimentar várias vezes ao dia, enquanto espécies maiores podem se
+              alimentar uma ou duas vezes.
+            </li>
+            <li>
+              Forneça pequenas porções ao longo do dia, mas evite excessos, pois
+              isso pode levar ao desperdício ou a problemas de peso.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Água Fresca e Limpa</strong>
+          <ul>
+            <li>
+              Sempre forneça água fresca e limpa para o pássaro. Troque a água
+              diariamente para evitar contaminação e doenças.
+            </li>
+            <li>
+              Verifique se a vasilha de água está limpa, pois pode acumular
+              sujeira rapidamente e prejudicar a saúde do animal.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Suplementos Alimentares</strong>
+          <ul>
+            <li>
+              Em algumas situações, pode ser necessário fornecer suplementos
+              alimentares, como vitaminas e minerais, especialmente se o seu
+              pássaro tiver alguma deficiência nutricional ou se for uma espécie
+              com exigências especiais.
+            </li>
+            <li>
+              Consulte um veterinário especializado antes de oferecer qualquer
+              suplemento, para garantir que seja adequado para a espécie do seu
+              pássaro.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Variedade na Dieta</strong>
+          <ul>
+            <li>
+              Proporcione uma dieta variada, oferecendo diferentes tipos de
+              alimentos, como frutas (maçã, pera, banana), vegetais (cenoura,
+              couve, espinafre) e grãos para evitar que o pássaro se torne
+              seletivo ou entediado com a comida.
+            </li>
+            <li>
+              Introduza novos alimentos gradualmente para observar como o
+              pássaro reage, e sempre remova alimentos não consumidos para
+              evitar que se decomponham na gaiola.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Comportamento de Alimentação</strong>
+          <ul>
+            <li>
+              Observe o comportamento alimentar do seu pássaro. Se ele estiver
+              comendo de maneira excessiva ou recusando alimentos, pode ser
+              sinal de um problema de saúde, e nesse caso, consulte um
+              veterinário.
+            </li>
+            <li>
+              Algumas aves podem se alimentar de forma compulsiva, enquanto
+              outras podem ser mais seletivas. Ajuste a dieta conforme
+              necessário para manter um peso saudável.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, você pode garantir que seu pássaro tenha uma
+        alimentação saudável e equilibrada, ajudando a manter sua saúde, energia
+        e disposição para atividades diárias.
+      </p>
+    </details>
+
+    <br />
+
+    <details>
+      <summary><b>Passear</b></summary>
+      <p>
+        Levar o seu pássaro para passeios é uma ótima maneira de proporcionar
+        exercício, estimulação mental e aumentar o vínculo entre vocês. No
+        entanto, é essencial ter alguns cuidados especiais para garantir a
+        segurança e o conforto do animal. Confira as melhores práticas para
+        passeios com o seu pássaro:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Escolha o Equipamento Adequado</strong>
+          <ul>
+            <li>
+              Use um arnês ou colete específico para aves, que seja confortável
+              e seguro. Evite usar cordas ou fios, que podem causar danos ou
+              desconforto ao pássaro.
+            </li>
+            <li>
+              Certifique-se de que o arnês esteja ajustado corretamente para não
+              machucar o pássaro, mas também para evitar que ele escape.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Ambiente Seguro</strong>
+          <ul>
+            <li>
+              Escolha um local seguro para passeios, longe de predadores, como
+              cães e gatos, e de lugares movimentados, como ruas com tráfego
+              intenso.
+            </li>
+            <li>
+              Evite áreas com plantas tóxicas ou perigosas, como aquelas com
+              pesticidas ou substâncias químicas que podem prejudicar a saúde do
+              pássaro.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Supervisão Constante</strong>
+          <ul>
+            <li>
+              Durante o passeio, supervisione o pássaro o tempo todo. Não
+              permita que ele se afaste muito de você, pois pode ser difícil de
+              controlar ou recuperar o animal se ele se assustar ou fugir.
+            </li>
+            <li>
+              Esteja atento ao comportamento do pássaro, verificando sinais de
+              estresse ou medo, como batidas rápidas das asas ou tentativas de
+              fugir.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Temperatura Adequada</strong>
+          <ul>
+            <li>
+              Evite passeios em dias muito quentes ou frios. Temperaturas
+              extremas podem ser prejudiciais à saúde do pássaro, causando
+              estresse ou até doenças.
+            </li>
+            <li>
+              Em dias muito quentes, ofereça sombra e água fresca durante o
+              passeio para evitar o superaquecimento.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Passeios Curtos</strong>
+          <ul>
+            <li>
+              Comece com passeios curtos e observe como o pássaro reage. Alguns
+              pássaros podem se cansar ou se estressar rapidamente, então é
+              importante começar devagar.
+            </li>
+            <li>
+              Aumente a duração dos passeios gradualmente, conforme o seu
+              pássaro se acostuma com a experiência.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Evite Barulhos e Movimentos Excessivos</strong>
+          <ul>
+            <li>
+              Evite lugares muito barulhentos, como avenidas movimentadas ou
+              perto de grandes construções, pois o ruído excessivo pode assustar
+              o pássaro.
+            </li>
+            <li>
+              Evite movimentos bruscos ou rápidos, como correr ou agitar-se,
+              para não assustar o pássaro.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Uso de Transportadora para Longos Deslocamentos</strong>
+          <ul>
+            <li>
+              Para viagens mais longas ou deslocamentos em transportes públicos,
+              utilize uma transportadora apropriada para aves. Isso garante a
+              segurança e o conforto do pássaro durante o trajeto.
+            </li>
+            <li>
+              Certifique-se de que a transportadora seja ventilada e tenha
+              espaço suficiente para que o pássaro se mova sem ficar apertado.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Com esses cuidados, os passeios se tornarão uma experiência agradável e
+        segura tanto para você quanto para o seu pássaro, ajudando a melhorar a
+        saúde e o bem-estar do animal, além de fortalecer o vínculo entre vocês.
+      </p>
+    </details>
+    <details>
+      <summary><b>curiosidades e mitos</b></summary>
+      <p>
+        Os pássaros são conhecidos por sua beleza, canto e habilidade de voar.
+        Contudo, existem diversas curiosidades fascinantes e mitos a respeito
+        dessas criaturas incríveis. Vamos conhecer mais sobre o mundo dos
+        pássaros:
+      </p>
+
+      <ol>
+        <li>
+          <strong>Curiosidades sobre Pássaros</strong>
+          <ul>
+            <li>
+              <strong>Capacidade de Navegação:</strong> Algumas espécies de
+              pássaros migratórios conseguem viajar milhares de quilômetros
+              usando o campo magnético da Terra como guia.
+            </li>
+            <li>
+              <strong>Plumagem Colorida:</strong> A coloração das penas dos
+              pássaros pode servir para atrair parceiros, camuflagem ou até
+              sinalizar perigo para predadores.
+            </li>
+            <li>
+              <strong>Inteligência Avançada:</strong> Corvos e papagaios estão
+              entre as aves mais inteligentes, sendo capazes de resolver
+              problemas complexos e até imitar a fala humana.
+            </li>
+            <li>
+              <strong>Comunicação por Canto:</strong> Os pássaros utilizam o
+              canto não apenas para atrair parceiros, mas também para demarcar
+              território e até transmitir mensagens a outros pássaros.
+            </li>
+            <li>
+              <strong>Osso Oco:</strong> Para facilitar o voo, os ossos dos
+              pássaros são ocos, o que reduz seu peso sem comprometer a
+              resistência.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Mitos sobre Pássaros</strong>
+          <ul>
+            <li>
+              <strong>Se tocar em um filhote, os pais o abandonarão:</strong>
+              Isso é falso. A maioria das espécies de pássaros reconhece os
+              filhotes pelo cheiro e continuará cuidando deles mesmo após
+              contato humano.
+            </li>
+            <li>
+              <strong>Pássaros não sentem frio:</strong> Apesar de sua plumagem
+              isolante, pássaros podem sofrer com baixas temperaturas,
+              especialmente se não têm acesso a abrigo adequado.
+            </li>
+            <li>
+              <strong>Pássaros não têm olfato:</strong> Muitas espécies de
+              pássaros, como abutres, possuem olfato altamente desenvolvido, que
+              os ajuda a localizar comida a grandes distâncias.
+            </li>
+            <li>
+              <strong>Todos os pássaros podem voar:</strong> Nem todos os
+              pássaros voam. Pinguins, avestruzes e emas são exemplos de aves
+              incapazes de voar, mas adaptadas a outras formas de locomoção.
+            </li>
+            <li>
+              <strong>Alimentar pássaros com arroz faz mal:</strong> Não há
+              evidências de que o arroz cozido seja prejudicial aos pássaros. No
+              entanto, o arroz cru pode ser difícil de digerir.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Fatos Divertidos sobre Pássaros</strong>
+          <ul>
+            <li>
+              <strong>Maior Velocidade:</strong> O falcão-peregrino é o animal
+              mais rápido do mundo, atingindo velocidades superiores a 320 km/h
+              durante um mergulho.
+            </li>
+            <li>
+              <strong>Menor Pássaro:</strong> O beija-flor-abelha é o menor
+              pássaro do mundo, medindo apenas 5 cm e pesando cerca de 2 gramas.
+            </li>
+            <li>
+              <strong>Pássaros Cantores:</strong> Alguns pássaros, como o
+              rouxinol, podem aprender mais de 200 melodias diferentes.
+            </li>
+            <li>
+              <strong>Dinossauros Modernos:</strong> Pássaros são descendentes
+              diretos dos dinossauros, sendo seus parentes vivos mais próximos.
+            </li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>
+        Os pássaros são seres maravilhosos que desempenham um papel crucial no
+        equilíbrio ambiental. Compreender suas características e desmistificar
+        crenças pode ajudar a preservá-los e apreciar ainda mais sua beleza e
+        singularidade.
+      </p>
+    </details>
+  </section>
+
+  <section>
+    <img
+      src="https://media.tenor.com/gqPDnKTgwlsAAAAi/truth-and-tales-bird.gif"
+    />
+  </section>
+  <script src="../js/menuLoader.js"></script>
+</body>
